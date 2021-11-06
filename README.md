@@ -1,1 +1,1 @@
-# TrabajoPractico2-Ingenieria-Software
+Este repositorio se creó con el objetivo de demostrar el utilización de las herramientas de versionado. Creado de  ramas, etc.
